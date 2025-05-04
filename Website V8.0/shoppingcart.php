@@ -36,7 +36,7 @@
                 }
             ?>
         </div>
-        <button onclick="localStorage.clear(); location.reload();">Clear Cart</button>
+        <button onclick="">Clear Cart</button>
         <a href="checkoutform.php">Check-Out</a>
     </div>
     
