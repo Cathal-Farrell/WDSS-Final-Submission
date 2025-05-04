@@ -37,6 +37,7 @@ if (isset($_POST['submit_signup'])) {
     }
 }
 
+// Login
 if (isset($_POST['submit_login'])) {
     $uname = trim($_POST['Username']);
     $psw = $_POST['Password'];
