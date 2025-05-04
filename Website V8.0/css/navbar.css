@@ -1,0 +1,43 @@
+.header {
+    overflow: hidden;
+    padding: 20px 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    background-color: lightgray;
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.header a.logo {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header a:hover {
+    background-color: #737373;
+    color: black;
+}
+
+.header a.active {
+    background-color: rgb(201, 0, 223);
+    color: white;
+}
+
+.header-middle {
+    float: middle;
+}
+
+.header-login {
+    background-color: #a3a3a3;
+    float: right;
+    border-radius: 5px;
+}

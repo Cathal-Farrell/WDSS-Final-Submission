@@ -1,0 +1,45 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  text-align:center;
+}
+
+body {
+  margin-top: -20px;
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding: 0;
+}
+
+.bestSellerFlex {
+  margin-top: -20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.bestSellerFlex > div {
+  flex: 1 1 30%;
+  margin: 3px;
+}
+
+.bestSellerFlex img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.bestSellerFlex h4 {
+  text-align: center;
+  text-decoration: none;
+  margin-top: 5px;
+}
+
+.bestSellerFlex a {
+  color: #000;
+  text-decoration: none;
+}
