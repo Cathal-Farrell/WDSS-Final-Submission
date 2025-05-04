@@ -6,6 +6,8 @@ Cathal:
 - Init file: Session (storing shopping cart info)
 - index page, reading from database to display info
 - Page templates: header, nav-bar
+- Functionality for each product page (adding to cart)
+- Display item's on the shopping cart
 
 
 Vlad:
