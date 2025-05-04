@@ -5,6 +5,7 @@ Cathal:
 - Shopping cart class
 - Init file: Session (storing shopping cart info)
 - index page, reading from database to display info
+- Page templates: header, nav-bar
 
 
 Vlad:
