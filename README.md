@@ -13,7 +13,13 @@ Vlad:
 
 
 Neo:
-- 
+- The initial concept for our website.
+- The about us page, which is about our website and why we created it.
+- Came up with ideas on how the website should be layered out and what we as a group decided on what would make the website appealing.
+- Came up with every page that we should have on the website. (About Us, Index, Main Page, Check-Out, etc.)
+- Began the starting phase on what the website should look like.
+- Checking if all the tests that we ran on the website was a success, which was a guarantee that our website was working the way it should be.
+- Analysing if all the website pages were able to link over to each other properly, without giving off an error.
 
 
 
