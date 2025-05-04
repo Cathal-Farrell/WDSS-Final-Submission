@@ -4,10 +4,10 @@ require_once 'include/NavBar.php';
 require_once 'include/sqlConfig.php';
 
 
-// Create database connection
+
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection
+
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
@@ -16,9 +16,8 @@ if ($conn->connect_error) {
 if (isset($_POST['submit_signup'])) {
     $uname = trim($_POST['Username']);
     $email = trim($_POST['Email']);
-    $psw = password_hash($_POST['Password'], PASSWORD_DEFAULT); // Hash password
+    $psw = password_hash($_POST['Password'], PASSWORD_DEFAULT);
 
-    // Prevent duplicate usernames
     $checkUser = $conn->prepare("SELECT id FROM users WHERE username = ?");
     $checkUser->bind_param("s", $uname);
     $checkUser->execute();
@@ -38,7 +37,6 @@ if (isset($_POST['submit_signup'])) {
     }
 }
 
-// Login 
 if (isset($_POST['submit_login'])) {
     $uname = trim($_POST['Username']);
     $psw = $_POST['Password'];
