@@ -18,9 +18,9 @@ Neo:
 
 <h3>References 3rd party material</h3>
 
-CheckoutForm.php Line 12:\n
+CheckoutForm.php Line 12:
 event.preventDefault() learned from StackOverflow comment: https://stackoverflow.com/a/8664680
 
-Index.php Line 29:\n
+Index.php Line 29:
 fetch_assoc learned from W3Schools: https://www.w3schools.com/php/func_mysqli_fetch_assoc.asp
 
