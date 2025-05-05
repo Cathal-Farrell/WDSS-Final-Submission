@@ -11,7 +11,14 @@ Cathal:
 
 
 Vlad:
-- 
+- How the website will look with a small diagran
+- Designing most of the pages using css
+- Worked on the pages of the product
+- Created and used css on the Checkout form
+- Made the Login/Sign up page function with designs
+- Initial DataBase connection to our website
+- Redesigned pages (About us, login/signup)
+- Connected the products through a database (ft Cathal)
 
 
 Neo:
@@ -32,4 +39,7 @@ event.preventDefault() learned from StackOverflow comment: https://stackoverflow
 
 Index.php Line 29:<br>
 fetch_assoc learned from W3Schools: https://www.w3schools.com/php/func_mysqli_fetch_assoc.asp
+
+Checkoutform.php <br>
+https://www.w3schools.com/howto/howto_css_checkout_form.asp
 
