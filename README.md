@@ -11,14 +11,13 @@ Cathal:
 
 
 Vlad:
-- How the website will look with a small diagran
-- Designing most of the pages using css
-- Worked on the pages of the product
-- Created and used css on the Checkout form
+- How the website will look (colours and the layout)
+- Designing most of the pages using css and its layout
+- Worked on the pages of the products
+- Created a checkout form (checkoutform.php) 
 - Made the Login/Sign up page function with designs
 - Initial DataBase connection to our website
-- Redesigned pages (About us, login/signup)
-- Connected the products through a database (ft Cathal)
+- Initialised the products in SQL 
 
 
 Neo:
