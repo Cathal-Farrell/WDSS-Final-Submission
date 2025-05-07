@@ -42,3 +42,5 @@ fetch_assoc learned from W3Schools: https://www.w3schools.com/php/func_mysqli_fe
 Checkoutform.php <br>
 https://www.w3schools.com/howto/howto_css_checkout_form.asp
 
+login.php <br>
+https://medium.com/@jpmorris/how-to-build-a-php-login-form-using-sessions-c7fb6d8ecebe (briefly used)
